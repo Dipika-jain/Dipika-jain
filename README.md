@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dipika-jain
-- 🌱 I’m currently learning DSA in C++ and Frontend developement.
+- 🌱 I’m currently learning DSA in C++ .
 - 📫 Linkedin: https://www.linkedin.com/in/dipika-jain-34160519b/
 
 <!---
